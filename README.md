@@ -1,6 +1,6 @@
 # Sistemi i Menaxhimit të Konsulltimeve në FIEK
 
-Ky është një sistem për menaxhimin e konsultimeve në Fakultetin e Inxhinierisë Elektrike dhe Kompjuterike (FIEK), i ndërtuar duke përdorur gjuhët Java dhe JavaFX. Projekti është zhvilluar duke përdorur Intellij IDEA dhe SceneBuilder.
+Ky është një sistem për menaxhimin e konsultimeve në , i ndërtuar duke përdorur gjuhët Java dhe JavaFX. Projekti është zhvilluar duke përdorur Intellij IDEA dhe SceneBuilder.
 
 ## Përmbajtja
 - [Karakteristikat](#karakteristikat)
