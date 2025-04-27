@@ -1,4 +1,4 @@
-# Sistemi i Menaxhimit të Konsulltimeve në FIEK
+# Sistemi i Menaxhimit të Konsulltimeve
 
 Ky është një sistem për menaxhimin e konsultimeve në , i ndërtuar duke përdorur gjuhët Java dhe JavaFX. Projekti është zhvilluar duke përdorur Intellij IDEA dhe SceneBuilder.
 
